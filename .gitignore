@@ -1,0 +1,4 @@
+#ignore fieldII folder in my repo, so this citationware isn't pushed
+FieldII/
+#don't push the data. There will be a script where the data can be downloaded from another location.
+Data/
