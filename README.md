@@ -9,7 +9,7 @@ This code and data is everyone one would need to reproduce all analysis and figu
 
 ## Installation
 The code and data can be dowloaded directly from the GitLab page. The repository can also be cloned using Git by running (in command line) 
-git clone git@git.doit.wisc.edu:smph/medical-physics/us/rosadomendez/QUL/data-and-code-for-improved-interface-paper.git
+git clone git@git.doit.wisc.edu:jhhale/code-and-data-for-improved-interface-paper.git
 
 The code is written in Matlab, so an installation of Matlab is required to run the code. Matlab version >= 2020a is recommended. Each matlab live script is intended to be run when the 'current folder' is the folder where the live script is found. If there are issues with running the live script, I would check if the current folder is set to the right folder.
 
