@@ -4,12 +4,15 @@
 Data and Code for the paper title "Improved imaging interfaces on a co-registered ultrasound and optical microscopy multiscale system". This paper can be found here: TBD
 
 ## Description
-This code and data is everyone one would need to reproduce all analysis and figures done in the paper listed above. 
+This code and data is everything one would need to reproduce all analysis and figures done in the paper listed above. 
 
 
 ## Installation
-The code and data can be dowloaded directly from the GitLab page. The repository can also be cloned using Git by running (in command line) 
+The code can be dowloaded directly from the GitLab page. The repository can also be cloned using Git by running (in command line) 
 git clone git@git.doit.wisc.edu:jhhale/data-and-code-for-improved-interface-paper.git
+
+The data is stored separately in Box and needs to be downloaded and placed in the same cloned repository. The link to the data is here: https://uwmadison.box.com/s/gyyfsvak3el7qf8usazbsvdqspx0dwb9
+Download the folder "Data" and place it in the same github repo folder. The only folders in the github repo should then be called "Code" and "Data". 
 
 The code is written in Matlab, so an installation of Matlab is required to run the code. Matlab version >= 2020a is recommended. Each matlab live script is intended to be run when the 'current folder' is the folder where the live script is found. If there are issues with running the live script, I would check if the current folder is set to the right folder.
 
