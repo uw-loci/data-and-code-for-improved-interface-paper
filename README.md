@@ -9,7 +9,7 @@ This code and data is everything one would need to reproduce all analysis and fi
 
 ## Installation
 The code can be dowloaded directly from the GitLab page. The repository can also be cloned using Git by running (in command line) 
-git clone git@git.doit.wisc.edu:jhhale/data-and-code-for-improved-interface-paper.git
+git clone https://github.com/uw-loci/data-and-code-for-improved-interface-paper.git
 
 The data is stored separately in Box and needs to be downloaded and placed in the same cloned repository. The link to the data is here: https://uwmadison.box.com/s/gyyfsvak3el7qf8usazbsvdqspx0dwb9
 Download the folder "Data" and place it in the same github repo folder. The only folders in the github repo should then be called "Code" and "Data". 
